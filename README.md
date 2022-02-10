@@ -9,19 +9,8 @@ Kids play this at home when the weather is not conducive for outdoor games.
 - Requirements
 - Design
 - Test plan
-
  
-# stepin_miniproject
-
-## Miniproject on Book Cricket using C language
-![capture](https://github.com/Chaitu2134/miniproject/blob/main/5_images_and_videos/bookcricket.jpg)
-
-## SDLC Activity Based Learning
-
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/Chaitu2134/miniproject/actions/workflows/c_build.yml/badge.svg)](https://github.com/Chaitu2134/miniproject/actions/workflows/c_build.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/Chaitu2134/miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Chaitu2134/miniproject/actions/workflows/cppcheck.yml)| [![Unit Testing - Unity](https://github.com/Chaitu2134/miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/Chaitu2134/miniproject/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/Chaitu2134/miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Chaitu2134/miniproject/actions/workflows/gitinspector.yml)
-
+ 
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
