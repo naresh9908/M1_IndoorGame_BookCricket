@@ -25,11 +25,28 @@ The project is titled as **Book Cricket Game** and developed using C language. B
  - Finding the sum of the players score individually
 
 ## FLOW CHART Diagram
-![FLOWCHART] 
+![FLOWCHART Diagram](https://github.com/naresh9908/M1_IndoorGame_BookCricket/blob/main/5_RelatedImageslink/flowchart.png)
 
-##  Defining our System
- 
+##  Defining Goal
+ ![Defining Goal](https://github.com/naresh9908/M1_IndoorGame_BookCricket/blob/main/5_RelatedImageslink/Cricket%20game.png)
 
+- The two players will have to decide the number of batsman.
+- Toss a coin and decide who is going to bat first.
+ - The player decided to bat will hold the book with him.
+- He has to randomly open the book and look for the page number.
+- The player should always look for the side of book which has even numbers on it.
+- In the opened page, look for the even number and take note of the last unit in that number. For Example: If the opened page is 154, then the last unit is 4 so the score is 4. So the possible scores are 2, 4, 6, 8 and 0.
+2, 4 and 6 score will be added to the batsman score as such and 8 will be a dot ball or counted as a single, it is decided at the beginning of the game when the decide on the number of bats man . 0 score means the batsman is out.
+
+- Close the book and open it again.
+
+- Note the score for that again.
+
+- The innings will go on until all the batsmen is out.
+
+- The total score of the first player is noted and then the second player takes over the Book and continues to play.
+
+At the end who ever has the bigger score is the Winner  
 ## SWOT Analysis
  
 # 4 W's and 1 H
