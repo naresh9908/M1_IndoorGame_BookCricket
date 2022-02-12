@@ -16,7 +16,7 @@ Kids play this at home when the weather is not conducive for outdoor games.
  ## Build Status
  [![cppcheck-action](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20cppcheck.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20cppcheck.yml)
 
- 
+
   [![.github/workflows/Build-linux.yml](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml)
 
 
@@ -41,7 +41,7 @@ Folder                   | Description
 
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-9007767 | Bashaboina Naresh | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  |2 Overall Test cases  | not Passed     
+9007767 | Bashaboina Naresh | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  |2 Overall Test cases  | All Passed     
   
 
 ## Challenges Faced and How Was It Overcome
