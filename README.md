@@ -12,7 +12,7 @@ Kids play this at home when the weather is not conducive for outdoor games.
 ## Code Quality
 ![Code Quality](https://api.codiga.io/project/31208/score/svg)
  ## Code Grade
- ![Code Grade](https://api.codiga.io/project/31208/score/svg)
+ ![Code Grade](https://api.codiga.io/project/31208/status/svg)
  
  
 ## Folder Structure
