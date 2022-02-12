@@ -16,6 +16,10 @@ Kids play this at home when the weather is not conducive for outdoor games.
  ## Build Status
   [![.github/workflows/Build-linux.yml](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml)
  
+
+ [![Unit testing](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Unit-test.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Unit-test.yml)
+
+ 
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
