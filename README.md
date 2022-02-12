@@ -15,6 +15,9 @@ Kids play this at home when the weather is not conducive for outdoor games.
  ![Code Grade](https://api.codiga.io/project/31208/status/svg)
  ## Build Status
   [![.github/workflows/Build-linux.yml](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml)
+
+
+ [![C/C++ CI](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20c_build.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20c_build.yml)
  
 
  [![Unit testing](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Unit-test.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Unit-test.yml)
