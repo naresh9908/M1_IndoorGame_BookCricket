@@ -30,7 +30,7 @@ Folder                   | Description
 
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-9007767 | Bashaboina Naresh | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  |2 Overall Test cases  | All Passed     
+9007767 | Bashaboina Naresh | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  |2 Overall Test cases  | not Passed     
   
 
 ## Challenges Faced and How Was It Overcome
