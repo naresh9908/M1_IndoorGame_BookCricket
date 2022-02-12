@@ -9,6 +9,10 @@ Kids play this at home when the weather is not conducive for outdoor games.
 - Requirements
 - Design
 - Test plan
+## Code Quality
+![Code Quality](https://api.codiga.io/project/31208/score/svg)
+![Code Quality](https://api.codiga.io/project/31208/score/svg)
+
  
  
 ## Folder Structure
