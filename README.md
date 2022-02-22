@@ -19,10 +19,6 @@ Kids play this at home when the weather is not conducive for outdoor games.
  ## Build Status
  [![cppcheck-action](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20cppcheck.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20cppcheck.yml)
 
-
-  [![.github/workflows/Build-linux.yml](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/Build-linux.yml)
-
-
  [![C/C++ CI](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20c_build.yml/badge.svg)](https://github.com/naresh9908/M1_IndoorGame_BookCricket/actions/workflows/%20c_build.yml)
  
 
