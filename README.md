@@ -15,10 +15,12 @@ Kids play this at home when the weather is not conducive for outdoor games.
 ## Code Quality
 ![Code Quality](https://api.codiga.io/project/31208/score/svg)
 
-
 <a href="https://app.codiga.io/public/user/github/naresh9908">
    <img src="https://api.codiga.io/public/badge/user/github/naresh9908?style=light" alt="codiga badge" />
 </a>
+
+
+ 
  ## Code Grade
  ![Code Grade](https://api.codiga.io/project/31208/status/svg)
  ## Build Status
